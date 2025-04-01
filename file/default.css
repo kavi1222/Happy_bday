@@ -3,7 +3,7 @@ body {
   padding: 0;
   background-image: url('../img2.png');
   background-size: 115%;
-  background-repeat: repeat-x;
+  background-repeat: repeat;
   font-size: 24px;
   font-family: sans-serif;
   color: white;
