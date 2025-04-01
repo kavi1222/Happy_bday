@@ -27,7 +27,7 @@ a {
   width: 525px;
   height:500px;
   left: 0px;
-  top: 0px;
+  top: -10px;
   position: absolute;
 }
 #code {
