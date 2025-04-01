@@ -26,8 +26,8 @@ a {
 #text {
   width: 525px;
   height:500px;
-  left: px;
-  top: px;
+  left: 0px;
+  top: 0px;
   position: absolute;
 }
 #code {
@@ -35,7 +35,7 @@ a {
   color: rgb(196, 255, 255);
   font-size: 16px;
   margin-top: 70px;
-  line-height: 45px;
+  line-height: 50px;
   font-size: larger;
   font-weight: bolder;
 }
