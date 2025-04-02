@@ -9,6 +9,28 @@ body {
   color: white;
   overflow: auto;
 }
+#slogan{
+  font-style: italic;
+  font-family: 'Lobster', cursive;
+  padding-left: 30%;
+  font-size: 80px;
+  text-shadow: 2px 2px 4px #000;
+  animation: color 5s infinite;
+}
+@keyframes color {
+0%{color: orange}
+10%{color: purple}
+20%{color: red}
+30%{color: cadetblue} 
+40%{color: yellow}
+50%{color: coral}
+60%{color: green}
+70%{color: cyan}
+80%{color: deeppink}
+90%{color: dodgerblue}
+100%{color: orange}
+}
+
 a {
   color: white;
   font-size: 14px;
@@ -21,7 +43,7 @@ a {
   margin:auto;
   width: 1100px;
   height:680px;
-  margin-top: 450px;
+  margin-top: 270px;
 }
 #text {
   width: 525px;
